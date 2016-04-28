@@ -80,7 +80,7 @@
 </div>
 
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
-
+<?php /* ?>
 <!-- Header -->
 <div class="pi-header piScrollTo piFixedHeader">
 
@@ -96,7 +96,7 @@
 		<!-- End logo -->
 
 		<!-- Text -->
-		<div class="pi-row-block pi-row-block-txt pi-hidden-2xs pi-uppercase pi-weight-700" style="font-size: 30px;"><span class="pi-text-base">Devless </span></div>
+		<div class="pi-row-block pi-row-block-txt pi-hidden-2xs pi-uppercase pi-weight-700" style="font-size: 30px;"><span class="pi-text-base">Devless</span></div>
 		<!-- End text -->
 
 		<!-- Menu -->
@@ -120,11 +120,11 @@
 						<li><a href="home-home-10.html">Home 10</a></li>
 					</ul> -->
 				</li>
-				<li>
+<!-- 				<li>
 					<a href="#anchor-about" data-scroll-to="#anchor-about" data-scroll-to-offset="-95">
 						<span>About Devless</span>
 					</a>
-				</li>
+				</li> -->
 <!-- 				<li>
 					<a href="#anchor-services" data-scroll-to="#anchor-services" data-scroll-to-offset="-70">
 						<span>Services</span>
@@ -145,11 +145,11 @@
 						<span>Work</span>
 					</a>
 				</li> -->
-				<li>
+<!-- 				<li>
 					<a href="#anchor-contact" data-scroll-to="#anchor-contact" data-scroll-to-offset="-70">
 						<span>Contact Us</span>
 					</a>
-				</li>
+				</li> -->
 			</ul>
 		</div>
 		<!-- End menu -->
@@ -178,7 +178,7 @@
 				<ul class="pi-menu-mobile pi-items-have-borders pi-menu-mobile-dark">
 					<li class="active">
 						<a href="#home">Home</a>
-						<ul>
+<!-- 						<ul>
 							<li><a href="home-onepage-1.html">One page 1</a></li>
 							<li><a href="home-onepage-2.html">One page 2</a></li>
 							<li><a href="home-home-1.html">Home 1</a></li>
@@ -191,14 +191,14 @@
 							<li><a href="home-home-8.html">Home 8</a></li>
 							<li><a href="home-home-9.html">Home 9</a></li>
 							<li><a href="home-home-10.html">Home 10</a></li>
-						</ul>
+						</ul> -->
 					</li>
-					<li><a href="#anchor-about">About</a></li>
+<!-- 					<li><a href="#anchor-about">About</a></li>
 					<li><a href="#anchor-services">Services</a></li>
 					<li><a href="#anchor-team">Team</a></li>
 					<li><a href="#anchor-testimonials">Testimonials</a></li>
 					<li><a href="#anchor-work">Work</a></li>
-					<li><a href="#anchor-contact">Contact</a></li>
+					<li><a href="#anchor-contact">Contact</a></li> -->
 				</ul>
 
 			</div>
@@ -213,6 +213,7 @@
 </div>
 <!-- End header -->
 
+<?php */ ?>
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
 
 <div id="anchor-about" class="pi-section-w pi-section-white">
@@ -229,15 +230,12 @@
 		</div>
 		
 		<div class="pi-row">
-			<div class="pi-col-sm-6 pi-padding-bottom-70">
+			<div class="pi-col-sm-6 pi-padding-bottom-40">
 
-						<div class="pi-slide">
-							<div class="pi-img-w pi-img-round-corners pi-img-shadow pi-img-with-overlay">
+							<div class="pi-img-w pi-img-round-corners" style="display: block;">
 
 								<a href="#"><img src="images/api.jpg" alt="Application Programming Interface"/></a>
-
 							</div>
-						</div>
 
 			</div>
 			<div class="pi-col-sm-6 pi-padding-bottom-50">
@@ -318,7 +316,7 @@
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
-
+<?php /* ?>
 <div id="anchor-contact" class="pi-section-w pi-section-white">
 	<div class="pi-section pi-padding-top-90 pi-padding-bottom-80">
 			
@@ -415,6 +413,7 @@
 	</div>
 </div>
 
+<?php */ ?>
 <!-- - - - - - - - - - END SECTION - - - - - - - - - -->
 
 <!-- - - - - - - - - - SECTION - - - - - - - - - -->
@@ -475,12 +474,12 @@
 		<!-- <div class="pi-img-w pi-margin-bottom-30 pi-uppercase pi-weight-700" style="font-size: 30px;"><span class="pi-text-base">Izzat </span>Homes</div> -->
 
 		<ul class="pi-social-icons pi-jump pi-round pi-colored-bg pi-margin-bottom-20 pi-clearfix">
-			<li><a href="#" class="pi-social-icon-rss pi-shadow"><i class="icon-rss"></i></a></li>
-			<li><a href="#" class="pi-social-icon-facebook pi-shadow"><i class="icon-facebook"></i></a></li>
-			<li><a href="#" class="pi-social-icon-twitter pi-shadow"><i class="icon-twitter"></i></a></li>
+			<!-- <li><a href="#" class="pi-social-icon-rss pi-shadow"><i class="icon-rss"></i></a></li> -->
+			<li><a href="https://www.facebook.com/devless.io/" class="pi-social-icon-facebook pi-shadow"><i class="icon-facebook"></i></a></li>
+<!-- 			<li><a href="#" class="pi-social-icon-twitter pi-shadow"><i class="icon-twitter"></i></a></li>
 			<li><a href="#" class="pi-social-icon-dribbble pi-shadow"><i class="icon-dribbble"></i></a></li>
 			<li><a href="#" class="pi-social-icon-linkedin pi-shadow"><i class="icon-linkedin"></i></a></li>
-		</ul>
+ -->		</ul>
 
 		<p>
 			&copy; 2016. <a href="#">Devless</a>. All right reserved.
