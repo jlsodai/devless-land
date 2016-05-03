@@ -8,28 +8,24 @@
 
 	<link rel="stylesheet" type="text/css" href="3dParty/bootstrap/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="css/global.css"/>
-	<link rel="stylesheet" type="text/css" href="3dParty/colorbox/colorbox.css"/>
-	<link rel="stylesheet" type="text/css" href="css/google-maps.css"/>
+	<!-- <link rel="stylesheet" type="text/css" href="3dParty/colorbox/colorbox.css"/> -->
+	<!-- <link rel="stylesheet" type="text/css" href="css/google-maps.css"/> -->
 	<link rel="stylesheet" type="text/css" href="css/typo.css"/>
-	<link rel="stylesheet" type="text/css" href="css/slider.css"/>
-	<link rel="stylesheet" type="text/css" href="css/tooltips.css"/>
-	<link rel="stylesheet" type="text/css" href="css/counters.css"/>
-	<link rel="stylesheet" type="text/css" href="css/portfolio.css"/>
+	<!-- <link rel="stylesheet" type="text/css" href="css/slider.css"/> -->
+	<!-- <link rel="stylesheet" type="text/css" href="css/tooltips.css"/> -->
+	<!-- <link rel="stylesheet" type="text/css" href="css/counters.css"/> -->
+	<!-- <link rel="stylesheet" type="text/css" href="css/portfolio.css"/> -->
 	<link rel="stylesheet" type="text/css" href="css/social.css"/>
-	<link rel="stylesheet" type="text/css" href="css/page-nav.css"/>
-	
+	<!-- <link rel="stylesheet" type="text/css" href="css/page-nav.css"/> -->
 
-	<!--Fonts-->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,cyrillic'
-		  rel='stylesheet' type='text/css' />
-
-	<!--Fonts with Icons-->
+		  rel='stylesheet' type='text/css' />	
 	<link rel="stylesheet" href="3dParty/fontello/css/fontello.css"/>
 
 </head>
 <body>
 
-	<div id="pi-all"><!-- - - - - - - - - - SECTION - - - - - - - - - -->
+	<div id="pi-all">
 
 <div id="anchor-home" class="pi-section-w pi-section-parallax pi-section-high piSectionHigh" style="background-image: url(images/bg.jpg);">
 	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.7), cover;"></div>
